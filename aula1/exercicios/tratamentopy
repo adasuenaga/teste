@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+
+## exceções
+
+
+
+try:
+	print(5/0)
+except ZeroDivisionError as e:
+	print(e)	
+
