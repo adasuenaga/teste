@@ -1,0 +1,3 @@
+112	ada	sp
+113	ale	sp
+114	ped	sp
