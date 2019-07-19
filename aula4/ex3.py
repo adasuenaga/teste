@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
-from ex2 import Conta as CC
-from ex2 import Poupanca as CP
+from ex4 import Conta as CC
+from ex4 import Poupanca as CP
 
 def main():
 
